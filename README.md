@@ -9,7 +9,7 @@ Built- and matches well with [Material-UI](https://material-ui.com/)
 
 
 ## Hello Component!
-`npm install material-app-layout
+`npm install material-app-layout`
 ```js 
 import Layout from 'material-app-layout'; 
 
