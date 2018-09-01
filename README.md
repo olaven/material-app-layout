@@ -4,7 +4,7 @@ Built- and matches well with [Material-UI](https://material-ui.com/)
 
 ## Hello Component!
 
-IMAGE WILL APPEAR HERE
+[Clean image](./images/clean.png)
 
 ```js 
 class App extends Component {
@@ -23,7 +23,11 @@ _That's it_.
 
 They may be filled with whatever you want!
 
-IMAGE WILL APPEAR HERE
+[Content](./images/content.png)
+
+[Clean in menu](./images/content-menu.png)
+
+
 
 ```js 
 import React, { Component } from 'react';
