@@ -4,7 +4,7 @@ Built- and matches well with [Material-UI](https://material-ui.com/)
 
 ## Hello Component!
 
-[Clean image](./images/clean.png)
+![Clean image](./images/clean.png)
 
 ```js 
 class App extends Component {
@@ -23,9 +23,9 @@ _That's it_.
 
 They may be filled with whatever you want!
 
-[Content](./images/content.png)
+![Content](./images/content.png)
 
-[Clean in menu](./images/content-menu.png)
+![Clean in menu](./images/content-menu.png)
 
 
 
