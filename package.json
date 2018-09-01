@@ -1,0 +1,33 @@
+{
+  "name": "material-app-layout",
+  "version": "0.0.1",
+  "description": "Providing a material layout for your react app in mere seconds. ",
+  "main": "./build/index.js",
+  "repository": "https://github.com/olaven/material-app-layout.git",
+  "author": "olaven <olavsundfoer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@material-ui/core": "^3.0.1",
+    "@material-ui/icons": "^3.0.1",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
