@@ -1,19 +1,27 @@
+- [Material App Layout](#material-app-layout)
+    - [Hello Component!](#hello-component)
+    - [How it works](#how-it-works)
+    - [Example](#example)
+
 # Material App Layout
 Providing a material layout for your react app in mere seconds.
 Built- and matches well with [Material-UI](https://material-ui.com/)
 
+
 ## Hello Component!
-
-![Clean image](./images/clean.png)
-
+`npm install material-app-layout
 ```js 
+import Layout from 'material-app-layout'; 
+
 class App extends Component {
   render() {
     return <Layout/>
   }
 }
 ```
-## Adding your own stuff 
+![Clean image](./images/clean.png)
+
+## How it works
 Available props: 
 1. top
 2. menu
@@ -22,6 +30,9 @@ Available props:
 _That's it_. 
 
 They may be filled with whatever you want!
+
+
+## Example
 
 ![Content](./images/content.png)
 
